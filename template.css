@@ -1,0 +1,52 @@
+body {
+	background-color:rgb(119,136,154);
+	font-family: 'Montserrat', sans-serif;
+}
+
+h1 {
+	text-align: center;
+	border-style: solid;
+	background-color: rgb(128,0,0);
+	text-shadow:2px 2px 5px grey;
+	margin:auto;
+	width:50%;
+	}
+
+p{
+	text-align: center;
+	margin-top:75px;
+	line-height: 1.6;
+}
+
+.top_nav_item{
+	float:right;
+	color:black;
+	margin-left:50px;
+	text-decoration: none;
+
+
+}
+.top_nav_item:hover{
+	float:right;
+	color:white;
+	margin-left:50px;
+	text-decoration: none;
+	
+
+}
+
+#currentpage{
+	text-decoration: underline;
+}
+
+#smash-logo{
+	box-shadow: none;
+}
+
+.Content{
+	width:60%;
+	margin: auto;
+
+}
+
+
